@@ -1,0 +1,14 @@
+.card {
+  width: 150px;
+  height: 150px;
+  margin: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  background-color: green;
+}
+
+.card_active {
+  background-color: bisque;
+}

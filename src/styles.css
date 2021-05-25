@@ -1,0 +1,38 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin: 20px 50px;
+}
+
+.cards-list {
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+}
+
+.App__button {
+  padding: 0;
+  margin: 0;
+  padding: 5px;
+  margin-right: 10px;
+  width: fit-content;
+  height: 30px;
+  border: none;
+  background-color: greenyellow;
+  font-size: 15px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.App__btn-group {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.App__number {
+  width: 50px;
+  border: none;
+  font-weight: bold;
+  margin-left: 10px;
+}
