@@ -12,4 +12,7 @@
 **Запуск проекта**
 Введите в терминале npm i
 
+**Githib pages**
+ https://natalja1912.github.io/memory-game/
+
 
